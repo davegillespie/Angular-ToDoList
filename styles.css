@@ -61,6 +61,7 @@
         float: right;
         background: none;
         border: none;
+        position: relative;
     }
     
     input {
