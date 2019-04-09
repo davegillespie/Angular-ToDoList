@@ -11,19 +11,16 @@
     .main-container {
         background: linear-gradient(90deg, rgb(253, 69, 130) 20%, rgb(253, 29, 120) 50%, rgba(253,29,99) 100%);
         margin: 0 auto;
-        /* width: 40%;
-        height: 40%; */
         padding: 20px;
     }
     
     .container {
         background-color: white;
-        margin: 20px;
-        /* width: 80%;
-        height: 80%; */
+        margin: 0 auto;
         padding: 20px;
         border-radius: 4px;
         box-shadow: 0 0 3px #000000;
+
     }
     
     li {
@@ -40,6 +37,7 @@
         float: right;
         margin-right: 25px;
         margin-top: 2px;
+
     }
     
     .btnComplete {
